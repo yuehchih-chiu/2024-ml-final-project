@@ -1,0 +1,2 @@
+2024 mechine learning final project-Handwritten Equation Recognition
+C:\Program Files\Git\bin
